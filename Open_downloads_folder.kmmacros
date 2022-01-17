@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>652618504.11850202</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.apple.finder</string>
+							<key>Name</key>
+							<string>Finder</string>
+							<key>NewFile</key>
+							<string>/System/Library/CoreServices/Finder.app</string>
+						</dict>
+						<key>IsDefaultApplication</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Open1File</string>
+						<key>Path</key>
+						<string>~/Downloads</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>664105691.03907704</real>
+				<key>ModificationDate</key>
+				<real>664107534.45555496</real>
+				<key>Name</key>
+				<string>Open downloads folder</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>2</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4096</integer>
+					</dict>
+					<dict>
+						<key>Case</key>
+						<string>Ignore</string>
+						<key>DiacriticalsMatter</key>
+						<false/>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>dwds</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>B34E0C9F-DDD9-42C2-90E1-9505D707ED82</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>MINE</string>
+		<key>ToggleMacroUID</key>
+		<string>703EC0CE-B2A3-4F39-B8C6-6E04A6685FD2</string>
+		<key>UID</key>
+		<string>A1C6B41D-4BCF-43EE-8612-EC65413DC19B</string>
+	</dict>
+</array>
+</plist>
