@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>652618504.11850202</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>HonorExcluded</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>QuitOthers</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>664594265.68789399</real>
+				<key>ModificationDate</key>
+				<real>664594370.95963204</real>
+				<key>Name</key>
+				<string>Kill_All_Other_Apps</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>12</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4096</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>8B404C5A-0362-4F68-A9A6-72FEA2E7F033</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>MINE</string>
+		<key>ToggleMacroUID</key>
+		<string>703EC0CE-B2A3-4F39-B8C6-6E04A6685FD2</string>
+		<key>UID</key>
+		<string>A1C6B41D-4BCF-43EE-8612-EC65413DC19B</string>
+	</dict>
+</array>
+</plist>
