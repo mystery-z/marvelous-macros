@@ -7,3 +7,4 @@ A backup of my Keyboard Maestro Macros
 4. open_downloads_folder.kmmacros -> control+d or type "dwds", literally opens the Downloads folder in Finder
 5. JP_L2TPd1_setup.kmmacros -> close all windows and click cmd+shift+/, should automatically setup process for JP_L2TPd1 
 6. Kill_All_Other_Apps.kmmacros -> control+q, closes all apps except the one that is currently open
+7. Activate_Clipboard_History_Switcher.kmmacros -> cmd+shift+v, shows clipboard history

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>652618504.11850202</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ClipboardHistorySwitcher</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>652591198.850227</real>
+				<key>ModificationDate</key>
+				<real>666763289.27676594</real>
+				<key>Name</key>
+				<string>Activate_Clipboard_History_Switcher</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>9</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>768</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>9670F659-719C-4DD1-B287-2ED6BD747E55</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>MINE</string>
+		<key>ToggleMacroUID</key>
+		<string>703EC0CE-B2A3-4F39-B8C6-6E04A6685FD2</string>
+		<key>UID</key>
+		<string>A1C6B41D-4BCF-43EE-8612-EC65413DC19B</string>
+	</dict>
+</array>
+</plist>
