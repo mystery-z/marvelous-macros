@@ -1,4 +1,4 @@
-# keyboardMaestroMacros
+# Marvelous macros
 A backup of my Keyboard Maestro Macros
 
 1. Autoclicker.kmmacros -> cmd+shift+. for autoclick near the middle of the screen
