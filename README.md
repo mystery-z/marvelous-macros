@@ -1,4 +1,4 @@
-# Marvelous macros
+# Marvelous Macros
 A backup of my Macros
 
 ## Keyboard Maestro:
