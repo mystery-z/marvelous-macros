@@ -12,4 +12,4 @@ A backup of my Macros
 
 ## Hammerspoon:
 
-See [this]([url](https://github.com/mystery-z/awesome-hammerspoon)https://github.com/mystery-z/awesome-hammerspoon) repo
+See [this](https://github.com/mystery-z/awesome-hammerspoon) repo
