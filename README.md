@@ -11,3 +11,5 @@ A backup of my Macros
 7. Activate_Clipboard_History_Switcher.kmmacros -> cmd+option+v, shows clipboard history
 
 ## Hammerspoon:
+
+See [this]([url](https://github.com/mystery-z/awesome-hammerspoon)https://github.com/mystery-z/awesome-hammerspoon) repo
